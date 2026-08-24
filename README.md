@@ -12,7 +12,7 @@ My current work focuses on end-to-end validation of **Vision-Based Landing** pip
 
 ### [geometric-robustness](https://github.com/GregoireTheau/geometric-robustness)
 
-**📄 Publication :** [*Robust Validation to Geometric Perturbations for Autonomous Pose Estimation*](https://arxiv.org/abs/2608.21066)[cite: 1]
+**📄 Publication :** [*Robust Validation to Geometric Perturbations for Autonomous Pose Estimation*](https://arxiv.org/abs/2608.21066)
 
 Robustness evaluation framework for Vision-Based Landing pipelines combining **YOLOv8-Pose** keypoint detection and **PnP-based 6-DoF pose estimation**.
 
