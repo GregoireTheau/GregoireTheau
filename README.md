@@ -12,12 +12,13 @@ My current work focuses on end-to-end validation of **Vision-Based Landing** pip
 
 ### [geometric-robustness](https://github.com/GregoireTheau/geometric-robustness)
 
+**📄 Publication :** [*Robust Validation to Geometric Perturbations for Autonomous Pose Estimation*](https://arxiv.org/abs/2608.21066)[cite: 1]
+
 Robustness evaluation framework for Vision-Based Landing pipelines combining **YOLOv8-Pose** keypoint detection and **PnP-based 6-DoF pose estimation**.
 
 Benchmarks gradient-based attacks, random search, and derivative-free global optimization under geometric perturbations. Global search exposed critical pose-estimation failures exceeding **1,000 m** and reduced the retained search-space volume by **over 80% after 10 iterations**.
 
 `PyTorch` · `YOLOv8-Pose` · `PnP` · `BPnP` · `GeoRobust` · `LARDv2`
-
 ---
 
 ### [pnps_comparison](https://github.com/GregoireTheau/pnps_comparison)
